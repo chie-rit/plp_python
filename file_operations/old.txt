@@ -1,0 +1,7 @@
+You can remove the origin URL by using this command:
+git remote remove origin
+
+Afterwards you can use the command below to add your new URL.
+git remote add origin yourNewUrl
+
+And that’s all there is to it! This was the first sets of commands I used and it worked like a charm.
